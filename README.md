@@ -29,7 +29,8 @@ Each directory contains code and resources for a specific numerical method or PD
 
 ## Contributing
 
-Contributions are welcome! Please feel free to fork the repository, make improvements, and submit pull requests.
+These programming solutions were developed as part of the Numerical Methods for PDEs coursework at SiSc, RWTH Aachen. Since they are intended as exercises, I do not plan to further develop them.
+However, suggestions and contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
 ---
 
